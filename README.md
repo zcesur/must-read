@@ -1,4 +1,12 @@
-# Programming
+# Programming & Tech
+
+### Design/Architecture
+
+- [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+- [Microservices](https://martinfowler.com/articles/microservices.html)
+- [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
+- [CNCF Serverless Whitepaper v1.0](https://github.com/cncf/wg-serverless/tree/master/whitepaper)
+- [The Netflix Simian Army](https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116)
 
 ### Protocol
 
@@ -11,10 +19,8 @@
 - [Lazy Dynamic Programming](http://jelv.is/blog/Lazy-Dynamic-Programming/)
 - [Lazy Functional State Threads](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.3299)
 - [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html)
-
-### Theory
-
-- [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf)
+- [A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
+- [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-2)
 
 ### Algo
 
@@ -35,21 +41,27 @@
 - [Best Motherfucking Website](https://bestmotherfucking.website/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 
-### Build systems
+### Build automation
 
 - [Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix/blob/master/README.md)
 - [Example Nix Project](https://github.com/shajra/example-nix)
 
-### Misc. DevOps
-
-- [You Are Most Likely Misusing Docker](https://www.mpscholten.de/docker/2016/01/27/you-are-most-likely-misusing-docker.html#note-0)
-
-# Quant
+### Quant
 
 - [Max Dama on Automated Trading](https://web.archive.org/web/20160515034451/http://www.decal.org/download/2582)
 - [Quantitative Trading Summary](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
 - [Quantopian Lectures](https://www.quantopian.com/lectures)
 - [The accidental HFT firm](https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html?m=1)
+
+### Startup
+
+- [Do Things That Don't Scale](http://paulgraham.com/ds.html)
+- [The Art of Shipping Early and Often](https://blog.ycombinator.com/tips-ship-early-and-often/)
+- [Why Startups Need to Focus on Sales, Not Marketing](https://news.ycombinator.com/item?id=7842282)
+
+### Misc.
+
+- [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf)
 
 # Life
 
