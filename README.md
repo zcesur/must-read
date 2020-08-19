@@ -1,77 +1,43 @@
-# Programming & Tech
+# λ
 
-### Design/Architecture
+## Patterns
 
-- [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
-- [Microservices](https://martinfowler.com/articles/microservices.html)
-- [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
-- [CNCF Serverless Whitepaper v1.0](https://github.com/cncf/wg-serverless/tree/master/whitepaper)
-- [The Netflix Simian Army](https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116)
+- [Haskell mini-patterns handbook :: Kowainik](https://kowainik.github.io/posts/haskell-mini-patterns)
 
-### Protocol
+### Evidence
+Replacing boolean blindness with the validation witness.
 
-- [Off-the-Record Communication, or, Why Not To Use PGP](https://otr.cypherpunks.ca/otr-wpes.pdf)
-- [The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [Boolean Blindness | Existential Type](https://existentialtype.wordpress.com/2011/03/15/boolean-blindness/)
+- [Destroy All Ifs — A Perspective from Functional Programming – John A De Goes](https://degoes.net/articles/destroy-all-ifs)
 
-### λ
+## Abstractions
 
-- [Monoids and Finger Trees](https://apfelmus.nfshost.com/articles/monoid-fingertree.html)
-- [Lazy Dynamic Programming](http://jelv.is/blog/Lazy-Dynamic-Programming/)
-- [Lazy Functional State Threads](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.3299)
-- [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html)
-- [A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
-- [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-2)
+- [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+    - [Monoids, semigroups, and friends](https://blog.ploeh.dk/2017/10/05/monoids-semigroups-and-friends/)
+    - [Functors, applicatives, and friends](https://blog.ploeh.dk/2018/03/19/functors-applicatives-and-friends/)
+    - [Catamorphisms](https://blog.ploeh.dk/2019/04/29/catamorphisms/)
+- [apfelmus - Monoids and Finger Trees](https://apfelmus.nfshost.com/articles/monoid-fingertree.html)
 
-### Algo
+## Algorithms
 
-- [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
-- [The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
-- [How Not To Sort By Average Rating](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+- [Lazy Dynamic Programming | jelv.is](https://jelv.is/blog/Lazy-Dynamic-Programming/)
+- [Generating Mazes with Inductive Graphs | jelv.is](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 
-### Humor
+## Haskell
 
-- [Reversing the technical interview](https://aphyr.com/posts/340-acing-the-technical-interview)
-- [Hexing the technical interview](https://aphyr.com/posts/341-hexing-the-technical-interview)
-- [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)
-
-### Front-end
-
-- [Motherfucking Website](http://motherfuckingwebsite.com/)
-- [Better Motherfucking Website](http://bettermotherfuckingwebsite.com/)
-- [Best Motherfucking Website](https://bestmotherfucking.website/)
-- [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
-
-### Build automation
-
-- [Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix/blob/master/README.md)
-- [Example Nix Project](https://github.com/shajra/example-nix)
-
-### Quant
-
-- [Max Dama on Automated Trading](https://web.archive.org/web/20160515034451/http://www.decal.org/download/2582)
-- [Quantitative Trading Summary](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
-- [Quantopian Lectures](https://www.quantopian.com/lectures)
-- [The accidental HFT firm](https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html?m=1)
-
-### Startup
-
-- [Do Things That Don't Scale](http://paulgraham.com/ds.html)
-- [The Art of Shipping Early and Often](https://blog.ycombinator.com/tips-ship-early-and-often/)
-- [Why Startups Need to Focus on Sales, Not Marketing](https://news.ycombinator.com/item?id=7842282)
-
-### Misc.
-
-- [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf)
+- [What I Wish I Knew When Learning Haskell (Stephen Diehl)](http://dev.stephendiehl.com/hask/)
+- [State of the Haskell ecosystem · Gabriel439/post-rfc · GitHub](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
+- [haskelliseasy](https://haskelliseasy.readthedocs.io/en/latest/)
 
 # Life
 
-### Stoic philosophy
+- [Vipassana for Hackers](https://www.vipassana-for-hackers.org/)
+- [Ask HN: The “I want to do everything but end up doing nothing” dilemma | Hacker News](https://news.ycombinator.com/item?id=9049208)
 
-- ["Study Death Always": Seneca's advice for living centered on dying](https://news.ycombinator.com/item?id=16344571)
+# Blog/Forum
 
-### Misc.
-
-- [On Paul Graham](http://blas.com/wp-content/uploads/2017/09/On-Paul-Graham-3.pdf)
-- [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
-- [How do you articulate yourselves so well?](https://news.ycombinator.com/item?id=16003980)
-- [The "I want to do everything but end up doing nothing" dilemma](https://news.ycombinator.com/item?id=9049208)
+- [Slate Star Codex](https://www.slatestarcodexabridged.com/)
+- [ribbonfarm – constructions in magical thinking](https://www.ribbonfarm.com/)
+- [Meaningness | Better ways of thinking, feeling, and acting—around problems of meaning: self, society, ethics, purpose, and value](https://meaningness.com/)
+- [LessWrong 2.0](https://www.lesswrong.com/)
